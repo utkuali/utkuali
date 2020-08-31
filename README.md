@@ -2,7 +2,7 @@
 ### Hello world, My name is Utku - aka [UTK]👋
 
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)][twitch]
-[![Discord](https://img.shields.io/discord/746155721392914442?color=%237289da&label=MY%20DISCORD&logo=Discord&style=for-the-badge)][discord]
+![Discord](https://img.shields.io/discord/340568729634996225?label=Discord&logo=Discord)[discord]
 
 ## I'm a Student, Developer, and Streamer
 
