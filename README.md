@@ -32,6 +32,6 @@
 <br />
 
 [discord]: https://discord.gg/yqHmvcr
-[instagram]: https://www.instagram.com/c.kocyigit/
+[instagram]: https://www.instagram.com/aliutkuoner/
 [twitch]: https://www.twitch.tv/utkuali
 [youtube]: https://www.youtube.com/channel/UCYAr8yo--p1Jf_TjM3Vi8GA?view_as=subscriber
