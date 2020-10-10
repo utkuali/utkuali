@@ -6,7 +6,7 @@
 
 ## I'm a Student, Developer, and Streamer
 
-- 💡 I currently focus on Android App and FiveM development,
+- 💡 I'm currently focused on game and webpage development, and FiveM scripting,
 - ⚡ Come and join me on my streams for chill coding.
 
 ### Connect with me:
@@ -35,3 +35,31 @@
 [instagram]: https://www.instagram.com/aliutkuoner/
 [twitch]: https://www.twitch.tv/utkuali
 [youtube]: https://www.youtube.com/channel/UCYAr8yo--p1Jf_TjM3Vi8GA?view_as=subscriber
+
+## My current project:
+
+### utk_phone (Co-written by [Can Koçyiğit](https://github.com/cankcygt)) written with html/javascript/css/lua
+(YES IT IS A WORKING PHONE WITH DATABASE!)
+
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764551142994214922/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764551309541900288/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764551384505778236/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764551455700418580/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764551553892745246/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764551817685893140/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764551867191394344/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764551927924916256/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764552286742511626/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764552436710244373/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764552509871489024/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764552560698458162/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764552652964233226/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764552896251166770/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764552959664586772/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764553022050664538/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764553173880668160/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764553485554417695/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764553542307414036/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764553743043395624/unknown.png" />
+<img align="left" width="221.5px" height="462.5px" src="https://cdn.discordapp.com/attachments/667147537375035423/764553841331929148/unknown.png" />
+<img align="left" width="710px" src="https://cdn.discordapp.com/attachments/667147537375035423/764553306525007902/unknown.png" />
