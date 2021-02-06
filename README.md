@@ -1,5 +1,5 @@
 
-### Hello world, My name is Utku - aka [UTK]👋
+### Hello world, My name is Utku - UTK
 
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)][twitch]
 [![Discord](https://img.shields.io/discord/340568729634996225?label=Discord&logo=Discord)][discord]
@@ -8,6 +8,8 @@
 
 - 💡 I'm currently focused on game and webpage development, and FiveM scripting,
 - ⚡ Come and join me on my streams for chill coding.
+
+![My stats](https://github-readme-stats.vercel.app/api?username=utkuali&show_icons=true&count_private=true)
 
 ### Connect with me:
 
