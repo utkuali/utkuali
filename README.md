@@ -1,10 +1,11 @@
 
 ### UTK
 
-[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)][twitch]
 [![Discord](https://img.shields.io/discord/340568729634996225?label=Discord&logo=Discord)][discord]
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=utkuali&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuali&layout=compact)
 
 ### Connect with me:
 
